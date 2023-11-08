@@ -35,7 +35,7 @@ class UsingBootsrap extends React.Component {
     this.setState({flag:true})
     this.setState({dec:false})
     this.setState({ count: 0 })
-
+  
   }
 
 
@@ -56,6 +56,7 @@ class UsingBootsrap extends React.Component {
           </Button>{' '}
           
         </Card>
+       
         
       </>
     )
